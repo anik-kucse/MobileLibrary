@@ -1,0 +1,720 @@
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\ApplicationInsights.config
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\csc.exe
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\System.Collections.Immutable.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\System.Reflection.Metadata.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\vbc.exe
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\VBCSCompiler.exe
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\VBCSCompiler.exe.config
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\WebApplicationDim.dll.config
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\WebApplicationDim.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\WebApplicationDim.pdb
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Antlr3.Runtime.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\AspNet.Identity.MySQL.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\AspNet.ScriptManager.jQuery.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\EntityFramework.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\EntityFramework.SqlServer.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.Web.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.WindowsServer.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.ApplicationInsights.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Google.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Web.Infrastructure.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\MySql.Data.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Newtonsoft.Json.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Owin.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\System.Web.Optimization.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\System.Web.Providers.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\WebGrease.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\AspNet.Identity.MySQL.pdb
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.xml
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.Web.xml
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.WindowsServer.xml
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.ApplicationInsights.xml
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\System.Web.Optimization.xml
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Antlr3.Runtime.pdb
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Newtonsoft.Json.xml
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\EntityFramework.xml
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\EntityFramework.SqlServer.xml
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\System.Web.Providers.xml
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.xml
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.xml
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Google.xml
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\obj\Debug\Mobile_Library.csprojResolveAssemblyReference.cache
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\obj\Debug\WebApplicationDim.dll
+G:\Anik _Work(dont_delete)\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\obj\Debug\WebApplicationDim.pdb
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\ApplicationInsights.config
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\csc.exe
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\System.Collections.Immutable.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\System.Reflection.Metadata.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\vbc.exe
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\VBCSCompiler.exe
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\VBCSCompiler.exe.config
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\WebApplicationDim.dll.config
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\WebApplicationDim.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\WebApplicationDim.pdb
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Antlr3.Runtime.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\AspNet.Identity.MySQL.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\AspNet.ScriptManager.jQuery.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\EntityFramework.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\EntityFramework.SqlServer.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.Web.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.WindowsServer.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.ApplicationInsights.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Google.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Web.Infrastructure.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\MySql.Data.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Newtonsoft.Json.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Owin.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\System.Web.Optimization.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\System.Web.Providers.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\WebGrease.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\AspNet.Identity.MySQL.pdb
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.xml
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.Web.xml
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.WindowsServer.xml
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.ApplicationInsights.xml
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\System.Web.Optimization.xml
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Antlr3.Runtime.pdb
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Newtonsoft.Json.xml
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\EntityFramework.xml
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\EntityFramework.SqlServer.xml
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\System.Web.Providers.xml
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.xml
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.xml
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Google.xml
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\obj\Debug\Mobile_Library.csprojResolveAssemblyReference.cache
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\obj\Debug\WebApplicationDim.dll
+E:\Dropbox\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\obj\Debug\WebApplicationDim.pdb
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\ApplicationInsights.config
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\csc.exe
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\System.Collections.Immutable.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\System.Reflection.Metadata.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\vbc.exe
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\VBCSCompiler.exe
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\VBCSCompiler.exe.config
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\WebApplicationDim.dll.config
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\WebApplicationDim.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\WebApplicationDim.pdb
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Antlr3.Runtime.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\AspNet.Identity.MySQL.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\AspNet.ScriptManager.bootstrap.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\AspNet.ScriptManager.jQuery.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\EntityFramework.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\EntityFramework.SqlServer.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.Agent.Intercept.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.Web.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.WindowsServer.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.ApplicationInsights.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Google.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.ScriptManager.MSAjax.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.ScriptManager.WebForms.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Web.Infrastructure.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\MySql.Data.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Newtonsoft.Json.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Owin.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\System.Web.Optimization.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\System.Web.Providers.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\WebGrease.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\AspNet.Identity.MySQL.pdb
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.xml
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.Web.xml
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.WindowsServer.xml
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.ApplicationInsights.xml
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\System.Web.Optimization.xml
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Antlr3.Runtime.pdb
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Newtonsoft.Json.xml
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.xml
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\EntityFramework.xml
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\EntityFramework.SqlServer.xml
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.xml
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\System.Web.Providers.xml
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.xml
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.xml
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.xml
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.xml
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Google.xml
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.xml
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.xml
+I:\MobileLibrary\Project Files\WebApplicationDim\obj\Debug\Mobile_Library.csprojResolveAssemblyReference.cache
+I:\MobileLibrary\Project Files\WebApplicationDim\obj\Debug\WebApplicationDim.dll
+I:\MobileLibrary\Project Files\WebApplicationDim\obj\Debug\WebApplicationDim.pdb
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\ApplicationInsights.config
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\csc.exe
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\vbc.exe
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\VBCSCompiler.exe
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\WebApplicationDim.dll.config
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\WebApplicationDim.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\WebApplicationDim.pdb
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Antlr3.Runtime.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\AspNet.Identity.MySQL.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\EntityFramework.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\EntityFramework.SqlServer.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.Web.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.ApplicationInsights.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\MySql.Data.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Newtonsoft.Json.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Owin.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\System.Web.Optimization.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\System.Web.Providers.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\WebGrease.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\AspNet.Identity.MySQL.pdb
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.Web.xml
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.ApplicationInsights.xml
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\System.Web.Optimization.xml
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Antlr3.Runtime.pdb
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Newtonsoft.Json.xml
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\EntityFramework.xml
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\EntityFramework.SqlServer.xml
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\System.Web.Providers.xml
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.xml
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.xml
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\obj\Debug\Mobile_Library.csprojResolveAssemblyReference.cache
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\obj\Debug\WebApplicationDim.dll
+C:\Users\tasni\Dropbox\Database project\MobileLibrary\Project Files\WebApplicationDim\obj\Debug\WebApplicationDim.pdb
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\ApplicationInsights.config
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\csc.exe
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\System.Collections.Immutable.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\System.Reflection.Metadata.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\vbc.exe
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\VBCSCompiler.exe
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\VBCSCompiler.exe.config
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\WebApplicationDim.dll.config
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\WebApplicationDim.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\WebApplicationDim.pdb
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Antlr3.Runtime.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\AspNet.Identity.MySQL.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\AspNet.ScriptManager.jQuery.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\EntityFramework.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\EntityFramework.SqlServer.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.Web.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.WindowsServer.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.ApplicationInsights.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Google.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Web.Infrastructure.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\MySql.Data.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Newtonsoft.Json.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Owin.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\System.Web.Optimization.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\System.Web.Providers.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\WebGrease.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\AspNet.Identity.MySQL.pdb
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.xml
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.Web.xml
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.WindowsServer.xml
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.ApplicationInsights.xml
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\System.Web.Optimization.xml
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Antlr3.Runtime.pdb
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Newtonsoft.Json.xml
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\EntityFramework.xml
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\EntityFramework.SqlServer.xml
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\System.Web.Providers.xml
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.xml
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.xml
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Google.xml
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\obj\Debug\Mobile_Library.csprojResolveAssemblyReference.cache
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\obj\Debug\WebApplicationDim.dll
+E:\Dropbox\Dropbox\MobileLibrary\Project Files\WebApplicationDim\obj\Debug\WebApplicationDim.pdb
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\ApplicationInsights.config
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\csc.exe
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\vbc.exe
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\VBCSCompiler.exe
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\WebApplicationDim.dll.config
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\WebApplicationDim.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\WebApplicationDim.pdb
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Antlr3.Runtime.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\AspNet.Identity.MySQL.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\EntityFramework.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\EntityFramework.SqlServer.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.Web.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.ApplicationInsights.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\MySql.Data.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Newtonsoft.Json.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Owin.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\System.Web.Optimization.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\System.Web.Providers.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\WebGrease.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\AspNet.Identity.MySQL.pdb
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.Web.xml
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.ApplicationInsights.xml
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\System.Web.Optimization.xml
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Antlr3.Runtime.pdb
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Newtonsoft.Json.xml
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\EntityFramework.xml
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\EntityFramework.SqlServer.xml
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\System.Web.Providers.xml
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.xml
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.xml
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\obj\Debug\Mobile_Library.csprojResolveAssemblyReference.cache
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\obj\Debug\WebApplicationDim.dll
+C:\Users\tasni\Dropbox\anisha\MobileLibrary\Project Files\WebApplicationDim\obj\Debug\WebApplicationDim.pdb
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\ApplicationInsights.config
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\csc.exe
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\vbc.exe
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\VBCSCompiler.exe
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\WebApplicationDim.dll.config
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\WebApplicationDim.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\WebApplicationDim.pdb
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Antlr3.Runtime.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\AspNet.Identity.MySQL.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\EntityFramework.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\EntityFramework.SqlServer.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.Web.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\MySql.Data.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Newtonsoft.Json.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Owin.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\System.Web.Optimization.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\System.Web.Providers.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\WebGrease.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\AspNet.Identity.MySQL.pdb
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.Web.xml
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\System.Web.Optimization.xml
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Antlr3.Runtime.pdb
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Newtonsoft.Json.xml
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\EntityFramework.xml
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\EntityFramework.SqlServer.xml
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\System.Web.Providers.xml
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.xml
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.xml
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\obj\Debug\Mobile_Library.csprojResolveAssemblyReference.cache
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\obj\Debug\WebApplicationDim.dll
+C:\Users\rCr_BD\Desktop\MobileLibrary\Project Files\WebApplicationDim\obj\Debug\WebApplicationDim.pdb
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\ApplicationInsights.config
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\csc.exe
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\vbc.exe
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\VBCSCompiler.exe
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\WebApplicationDim.dll.config
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\WebApplicationDim.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\WebApplicationDim.pdb
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Antlr3.Runtime.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\AspNet.Identity.MySQL.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\EntityFramework.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\EntityFramework.SqlServer.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.Web.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.ApplicationInsights.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\MySql.Data.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Newtonsoft.Json.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Owin.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\System.Web.Optimization.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\System.Web.Providers.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\WebGrease.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\AspNet.Identity.MySQL.pdb
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.Web.xml
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.ApplicationInsights.xml
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\System.Web.Optimization.xml
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Antlr3.Runtime.pdb
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Newtonsoft.Json.xml
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\EntityFramework.xml
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\EntityFramework.SqlServer.xml
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\System.Web.Providers.xml
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.xml
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.xml
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\obj\Debug\Mobile_Library.csprojResolveAssemblyReference.cache
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\obj\Debug\WebApplicationDim.dll
+C:\Users\tasni\Desktop\MobileLibrary\Project Files\WebApplicationDim\obj\Debug\WebApplicationDim.pdb
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\ApplicationInsights.config
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\roslyn\csc.exe
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\roslyn\vbc.exe
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\roslyn\VBCSCompiler.exe
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\WebApplicationDim.dll.config
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\WebApplicationDim.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\WebApplicationDim.pdb
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Antlr3.Runtime.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\AspNet.Identity.MySQL.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\EntityFramework.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\EntityFramework.SqlServer.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.AI.Web.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.Owin.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\MySql.Data.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Newtonsoft.Json.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Owin.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\System.Web.Optimization.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\System.Web.Providers.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\WebGrease.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\AspNet.Identity.MySQL.pdb
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.AI.Web.xml
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\System.Web.Optimization.xml
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Antlr3.Runtime.pdb
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Newtonsoft.Json.xml
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\EntityFramework.xml
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\EntityFramework.SqlServer.xml
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\System.Web.Providers.xml
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.Owin.xml
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.xml
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\obj\Debug\Mobile_Library.csprojResolveAssemblyReference.cache
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\obj\Debug\WebApplicationDim.dll
+C:\Users\rCr_BD\Desktop\Project Files\WebApplicationDim\obj\Debug\WebApplicationDim.pdb
